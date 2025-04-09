@@ -1,0 +1,33 @@
+{
+  "resume": "السيرة الذاتية",
+  "information": "معلومات",
+  "skills": "المهارات",
+  "language": "اللغة",
+  "about": "نبذة عني",
+  "experience": "الخبرة",
+  "volunteer": "التطوع",
+  "education": "التعليم",
+  "license": "التراخيص والشهادات",
+  "project": "المشاريع",
+  "credential": "الاعتماد",
+  "credential_code": "رمز الاعتماد",
+  "settings": {
+    "title": "الإعدادات",
+    "theme": "المظهر",
+    "dark_mode": "تفعيل الوضع الداكن؟",
+    "en": "الإنجليزية",
+    "ar": "العربية"
+  },
+  "menu": {
+    "experience": "الخبرة",
+    "education": "التعليم",
+    "project": "المشاريع"
+  },
+  "paginate": {
+    "count": "عرض {first} إلى {last} من {total} نتيجة",
+    "previous_page": "الصفحة السابقة",
+    "next_page": "الصفحة التالية",
+    "first_page": "الصفحة الأولى",
+    "last_page": "الصفحة الأخيرة"
+  }
+}

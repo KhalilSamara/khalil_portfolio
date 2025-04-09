@@ -1,0 +1,294 @@
+{
+  "profile": {
+    "name": "خليل سمارة",
+    "job": "مهندس تحميل وأداء | مُهتم بتطوير Flutter | مطور ويب",
+    "avatar": "img/profile/me.jpg",
+    "aboutMe": "أنا مهندس برمجيات يقوده الفضول وشغف بناء الحلول الرقمية الأنيقة والفعالة ذات الأثر الكبير. سواءً كنت أصمم تطبيقات جوال سهلة الاستخدام باستخدام Flutter أو أحسّن أداء الويب، فإنني أزدهر عند نقطة التقاء الإبداع والمنطق. يمتد عملي عبر تطبيقات التكنولوجيا المالية، والخدمات، والخدمات اللوجستية - كلها مصممة مع التركيز على تجربة المستخدم والقابلية للتوسع. أنا أتعلم باستمرار، وأتعاون، وأدفع الحدود لتقديم تقنيات تُحدث فرقًا حقيقيًا.",
+    "socialNetwork": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/khalilsamara/"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF & DOC",
+    "value": "خليل سمارة",
+    "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "البريد الإلكتروني",
+      "value": "khalilsamara13@gmail.com"
+    },
+    {
+      "icon": "PhoneIcon",
+      "name": "رقم الهاتف",
+      "value": "0797035990"
+    }
+  ],
+  "skill": [
+    "Flutter",
+    "Dart",
+    "Android Studio",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Git",
+    "Github",
+    "Postman",
+    "Figma",
+    "JMeter",
+    "K6",
+    "LoadRunner"
+  ],
+  "language": [
+    {
+      "name": "الإنجليزية",
+      "code": "en-US",
+      "flag": "svg/united-states.svg",
+      "level": "ماهر"
+    },
+    {
+      "name": "العربية",
+      "code": "ar-JO",
+      "flag": "svg/jordan.svg",
+      "level": "اللغة الأم"
+    }
+  ],
+  "experience": [
+    {
+      "job": "مهندس تحميل وأداء",
+      "company": "Quality Professionals",
+      "companyLogo": "img/company/q-prosLogo.png",
+      "location": "عمان، الأردن",
+      "workType": "دوام جزئي",
+      "start": "مارس 2025",
+      "end": "حتى الآن",
+      "description": "- اختبار أداء البرمجيات لعملاء مختلفين تحت أحمال وبيئات متنوعة.<br/>- تقديم التقارير للعملاء عبر وثائق ورسوم بيانية مفصلة.<br/>- استخدام JMeter وK6 لإجراء الاختبارات تحت سيناريوهات مختلفة.<br/>- استخدام Fiddler لتسجيل جلسات الويب."
+    },
+    {
+      "job": "متدرب تطوير تطبيقات جوال",
+      "company": "AppTrainers",
+      "companyLogo": "img/company/apptrainers_logo.svg",
+      "location": "عمان، الأردن",
+      "workType": "دوام جزئي",
+      "start": "نوفمبر 2024",
+      "end": "مارس 2025",
+      "description": "- تطوير وصيانة تطبيقات الجوال باستخدام Flutter لكل من Android وiOS.<br/>- التعاون مع مطوري الواجهات الخلفية والمصممين لبناء تطبيقات جوال قابلة للتوسع.<br/>- إنشاء ثلاثة مواقع باستخدام WordPress مع دمج محتوى العملاء وهويتهم البصرية ومتطلبات التصميم.<br/>- تعلم أنظمة التحكم بالإصدارات وتطبيقها باستخدام Git وGithub وMicrosoft Azure.<br/>- تطوير تطبيق طلبات طعام بشكل مستقل مع الالتزام الكامل بتصميم ومتطلبات العميل.<br/>- التعاون مع أعضاء الفريق باستخدام Jira لتنظيم وتحديث المهام."
+    },
+    {
+      "job": "متدرب تطوير برمجيات",
+      "company": "Orange",
+      "companyLogo": "img/company/orange_logo.png",
+      "location": "عمان، الأردن",
+      "workType": "دوام جزئي",
+      "start": "يوليو 2024",
+      "end": "سبتمبر 2024",
+      "description": "- تحقيق المركز الثاني في تحدي Orange الصيفي.<br>- العمل مع فريق مكون من 8 أفراد لتسليم روبوت رباعي الأرجل للمساعدة في عمليات الإنقاذ.<br>- اتباع توجيهات مرشدي Orange لضمان نجاح المشروع.<br>- تطوير موقعين: لوحة تحكم إدارية وصفحة هبوط.<br>- ربط واجهات برمجة التطبيقات (APIs) لبث الفيديو المباشر والمصادقة والإشعارات الفورية."
+    },
+    {
+      "job": "متدرب تطوير ويب",
+      "company": "Karama Computer Services",
+      "companyLogo": "img/company/kcsc_logo.png",
+      "location": "عمان، الأردن",
+      "workType": "دوام جزئي",
+      "start": "يوليو 2023",
+      "end": "أكتوبر 2023",
+      "description": "- إدارة فريق مكون من أربعة أفراد لبناء موقع ويب كامل خلال مشروع استمر شهراً.<br>- بناء مواقع ويب كاملة باستخدام ERP Next وإطار عمل Frappe.<br>- استخدام Python وJavaScript للواجهة الخلفية.<br>- برمجة واختبار واجهات برمجة التطبيقات باستخدام Postman.<br>- إنشاء نماذج طباعة باستخدام HTML وCSS."
+    }
+  ],
+  "education": [
+    {
+      "college": "جامعة الأميرة سمية للتكنولوجيا",
+      "collegeLogo": "img/college/images.jfif",
+      "course": "هندسة البرمجيات",
+      "start": "2020",
+      "end": "2024",
+      "url": ""
+    }
+  ],
+  "certificate": [
+    {
+      "course": "أمن التطبيقات للمطورين ومحترفي DevOps",
+      "provider": "IBM",
+      "schoolLogo": "img/college/coursera.jpg",
+      "url": "https://coursera.org/share/ab91ef0f5cc702fa695332f9a231651d"
+    }
+  ],
+  "project": [
+    {
+      "name": "فودتيك - نظام طلبات المطاعم",
+      "description": "يهدف فودتيك إلى إنشاء حل برمجي متكامل مصمم لتحسين عمليات المطاعم.<br/><br/>واجهة سهلة الاستخدام للعملاء لتصفح القائمة، تقديم الطلبات، وتتبع التوصيل.<br/><br/>تشمل الميزات الرئيسية: مصادقة المستخدم، تكامل الخرائط، ونظام إشعارات فوري لتحديثات الطلبات.<br/><br/>موجه للمطاعم متوسطة الحجم التي تفتقر للأدوات اللازمة لإدارة خدماتها بكفاءة.<br/><br/>يقلل من عدم الكفاءة في معالجة الطلبات مع تحسين عمليات التوصيل وزيادة تفاعل العملاء.",
+      "language": {
+        "image": "img/project/foodtek/foodtekLogo.png",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/foodtek/splash.png",
+        "img/project/foodtek/onboarding1.png",
+        "img/project/foodtek/onboarding2.png",
+        "img/project/foodtek/onboarding3.png",
+        "img/project/foodtek/location.png",
+        "img/project/foodtek/login.png",
+        "img/project/foodtek/signup.png",
+        "img/project/foodtek/resetPassword.png",
+        "img/project/foodtek/otp.png",
+        "img/project/foodtek/congrats.png",
+        "img/project/foodtek/home.png",
+        "img/project/foodtek/category.png",
+        "img/project/foodtek/notifications.png",
+        "img/project/foodtek/favorites.png",
+        "img/project/foodtek/remove.png",
+        "img/project/foodtek/details.png",
+        "img/project/foodtek/filter.png",
+        "img/project/foodtek/cart2.png",
+        "img/project/foodtek/history.png",
+        "img/project/foodtek/cartEmpty.png",
+        "img/project/foodtek/historyEmpty.png",
+        "img/project/foodtek/map.png",
+        "img/project/foodtek/checkout.png",
+        "img/project/foodtek/addCard.png",
+        "img/project/foodtek/orderSuccess.png",
+        "img/project/foodtek/onTheWay.png",
+        "img/project/foodtek/chat.png",
+        "img/project/foodtek/orderDetails.png",
+        "img/project/foodtek/profile.png",
+        "img/project/foodtek/editProfile.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "بروسيرف - توزيع الخدمات للمزودين",
+      "description": "بروسيرف هو تطبيق جوال مصمم لتبسيط توزيع الخدمات للمزودين.<br/><br/>يسمح التطبيق للمستخدمين بعرض الخدمات المتاحة، حجز المواعيد، وإدارة ملفاتهم الشخصية.<br/><br/>تشمل الميزات الرئيسية: واجهة سهلة الاستخدام، معالجة دفع آمنة، وإشعارات فورية لتحديثات المواعيد.<br/><br/>تم تطوير التطبيق باستخدام Flutter لتجربة متعددة المنصات، مع استخدام Firebase كخلفية لإدارة البيانات الفورية بكفاءة.",
+      "language": {
+        "image": "img/project/proserve/proserveLogo.png",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/proserve/splash.png",
+        "img/project/proserve/login.png",
+        "img/project/proserve/phoneAuth.png",
+        "img/project/proserve/otp.png",
+        "img/project/proserve/resetPassword.png",
+        "img/project/proserve/newPassword.png",
+        "img/project/proserve/tasks.png",
+        "img/project/proserve/visits.png",
+        "img/project/proserve/taskDetails.png",
+        "img/project/proserve/checklist.png",
+        "img/project/proserve/details.png",
+        "img/project/proserve/notifications.png",
+        "img/project/proserve/profile.png",
+        "img/project/proserve/changeLanguage.png",
+        "img/project/proserve/techSupport.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "كارزبي - إصلح الآن وادفع لاحقاً",
+      "description": "كارزبي هو تطبيق جوال مصمم لتسهيل خدمات إصلاح وصيانة السيارات.<br/><br/>يسمح التطبيق للمستخدمين بحجز المواعيد مع مزودي الخدمة، عرض ملفاتهم الشخصية، ودفع ثمن الخدمات.<br/><br/>تشمل الميزات الرئيسية: واجهة سهلة الاستخدام، معالجة دفع آمنة، وإشعارات فورية لتحديثات المواعيد.<br/><br/>تم تطوير التطبيق باستخدام Flutter لتجربة متعددة المنصات، مع استخدام Firebase كخلفية لإدارة البيانات الفورية بكفاءة.",
+      "language": {
+        "image": "img/project/carzpay/CarzpayLogo.png",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/carzpay/Splash2.png",
+        "img/project/carzpay/Onboarding.png",
+        "img/project/carzpay/Login.png",
+        "img/project/carzpay/OTP.png",
+        "img/project/carzpay/Verified.png",
+        "img/project/carzpay/Home1.png",
+        "img/project/carzpay/Home2.png",
+        "img/project/carzpay/Home3.png",
+        "img/project/carzpay/PackageDetails.png",
+        "img/project/carzpay/Partners.png",
+        "img/project/carzpay/PartnerDetails.png",
+        "img/project/carzpay/Apply1.png",
+        "img/project/carzpay/Apply2.png",
+        "img/project/carzpay/Apply3.png",
+        "img/project/carzpay/Apply4.png",
+        "img/project/carzpay/Apply5.png",
+        "img/project/carzpay/Apply6.png",
+        "img/project/carzpay/NoPayments.png",
+        "img/project/carzpay/Pay.png",
+        "img/project/carzpay/Payments1.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "كارزبي لمحلات الإصلاح",
+      "description": "كارزبي لمحلات الإصلاح هو تطبيق جوال مخصص للاستخدام من قبل محلات الإصلاح ضمن إطار عمل كارزبي.<br/><br/>الوظيفة الرئيسية هي بدء عمليات الإصلاح وإدخال المبلغ النهائي.<br/><br/>تم تنفيذ ميزة مسح رمز الاستجابة السريعة (QR) لضمان الراحة.<br/><br/>جميع التغييرات تنعكس على التطبيق الرئيسي كارزبي.",
+      "language": {
+        "image": "img/project/carzpay/CarzpayLogo.png",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/carzpay_rs/login.png",
+        "img/project/carzpay_rs/enterCode.png",
+        "img/project/carzpay_rs/details.png",
+        "img/project/carzpay_rs/enterAmount.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "سويفت سبوت - نظام تأجير مواقف السيارات",
+      "description": "سويفت سبوت هو تطبيق جوال مصمم لتحسين توفر مواقف السيارات في المناطق المزدحمة.<br/><br/>يسمح التطبيق للمستخدمين بتأجير مواقفهم الخاصة عندما لا تكون قيد الاستخدام، providing a temporary solution for those struggling to find parking near busy areas like government buildings or malls.<br/><br/>تشمل الميزات الرئيسية: عرض الموقع الفعلي للمواقف المتاحة وتوجيهات خطوة بخطوة باستخدام مكتبة Open Street من جوجل.<br/><br/>تم تطوير التطبيق باستخدام Flutter لتجربة متعددة المنصات، مع استخدام Firebase كخلفية لإدارة البيانات الفورية بكفاءة.",
+      "language": {
+        "image": "img/project/languages/flutter.svg",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/parking_rent/0.svg",
+        "img/project/parking_rent/1.png",
+        "img/project/parking_rent/2.png",
+        "img/project/parking_rent/3.png",
+        "img/project/parking_rent/4.png",
+        "img/project/parking_rent/5.png",
+        "img/project/parking_rent/6.png",
+        "img/project/parking_rent/7.png",
+        "img/project/parking_rent/8.png",
+        "img/project/parking_rent/9.png",
+        "img/project/parking_rent/10.png",
+        "img/project/parking_rent/11.png",
+        "img/project/parking_rent/12.png",
+        "img/project/parking_rent/13.png",
+        "img/project/parking_rent/14.png",
+        "img/project/parking_rent/15.png",
+        "img/project/parking_rent/16.png",
+        "img/project/parking_rent/17.png",
+        "img/project/parking_rent/18.png",
+        "img/project/parking_rent/19.png",
+        "img/project/parking_rent/20.png",
+        "img/project/parking_rent/21.png",
+        "img/project/parking_rent/22.png",
+        "img/project/parking_rent/23.png",
+        "img/project/parking_rent/24.png",
+        "img/project/parking_rent/25.png",
+        "img/project/parking_rent/26.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": [
+        {
+          "name": "SwiftSpotBrochure.pdf",
+          "url": "img/project/parking_rent/SwiftSpotBrochure.pdf"
+        },
+        {
+          "name": "SwiftSpot.pdf",
+          "url": "img/project/parking_rent/SwiftSpot.pdf"
+        }
+      ]
+    }
+  ]
+}

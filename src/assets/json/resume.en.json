@@ -1,0 +1,294 @@
+{
+  "profile": {
+    "name": "Khalil Samara",
+    "job": "Load & Performance Engineer | Flutter Enthusiast | Web Developer",
+    "avatar": "img/profile/me.jpg",
+    "aboutMe": "I'm a Software Engineer driven by curiosity and a love for building elegant, efficient, and impactful digital solutions. Whether I'm crafting intuitive mobile apps with Flutter or optimizing web performance, I thrive at the intersection of creativity and logic. My work spans fintech, service-based, and logistics-driven apps—each designed with a focus on user experience and scalability. I'm constantly learning, collaborating, and pushing boundaries to deliver tech that truly makes a difference.",
+    "socialNetwork": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/khalilsamara/"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF & DOC",
+    "value": "Khalil Samara",
+    "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "Email address",
+      "value": "khalilsamara13@gmail.com"
+    },
+    {
+      "icon": "PhoneIcon",
+      "name": "Phone number",
+      "value": "0797035990"
+    }
+  ],
+  "skill": [
+    "Flutter",
+    "Dart",
+    "Android Studio",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Git",
+    "Github",
+    "Postman",
+    "Figma",
+    "JMeter",
+    "K6",
+    "LoadRunner"
+  ],
+  "language": [
+    {
+      "name": "English",
+      "code": "en-US",
+      "flag": "svg/united-states.svg",
+      "level": "Proficient"
+    },
+    {
+      "name": "Arabic",
+      "code": "ar-JO",
+      "flag": "svg/jordan.svg",
+      "level": "Native"
+    }
+  ],
+  "experience": [
+    {
+      "job": "Load & Performance Engineer",
+      "company": "Quality Professionals",
+      "companyLogo": "img/company/q-prosLogo.png",
+      "location": "Amman, Jordan",
+      "workType": "Full-time",
+      "start": "March 2025",
+      "end": "Present",
+      "description": "- Conducted performance analysis of client software applications, evaluating key parameters identifing areas of improvement.<br/>- Tested software performance for various clients under different loads and enviroments.<br/>- Reported findings to clients though detailed documents and charts.<br/>- Used JMeter and K6 for correlating, recording, and testing given different scenarios.<br/>- Used Fiddler to record web sessions.<br/>- Documented findings in detailed reports."
+    },
+    {
+      "job": "Mobile Development Intern",
+      "company": "AppTrainers",
+      "companyLogo": "img/company/apptrainers_logo.svg",
+      "location": "Amman, Jordan",
+      "workType": "Part-time",
+      "start": "Nov 2024",
+      "end": "March 2025",
+      "description": "- Developed and maintained mobile apps with Flutter for both Android and iOS platforms.<br/>- Collaborated with backend developers and designers to build scalable front-end mobile applications.<br/>- Created three websites using wordpress and integrating clients' required content, brand identity, and additioal design requirements.<br/>- Learned version control and implemented it using Git, Github, and Microsoft Azure.<br/>- Independently developed and implemented a food ordering app fully adhering to client's design and requirements.<br/>- Collaborated with several team members using Jira to organize and update tasks."
+    },
+    {
+      "job": "Software Development Intern",
+      "company": "Orange",
+      "companyLogo": "img/company/orange_logo.png",
+      "location": "Amman, Jordan",
+      "workType": "Part-time",
+      "start": "July 2024",
+      "end": "September 2024",
+      "description": "- Achieved the 2nd place in the Orange Summer Challenge.<br>- Worked with a team consisting of 8 members to deliver a functional four-legged robot that aids in rescue missions.<br>- Followed guidance from Orange team mentors to ensure project success<br>- Developed 2 websites; an admin dashboard and a landing page<br>- Connected APIs to facilitate live video feed, user authentication, and real-time notifications."
+    },
+    {
+      "job": "Web Development Intern",
+      "company": "Karama Computer Services",
+      "companyLogo": "img/company/kcsc_logo.png",
+      "location": "Amman, Jordan",
+      "workType": "Per-Project",
+      "start": "July 2023",
+      "end": "October 2023",
+      "description": "- Managed a four-person team to assemble a fully working website during a month-long project.<br>- Built full-stack websites using ERP Next and Frappe framework.<br>- Used Python and JavaScript for the back end.<br>- Programmed and tested APIs using Postman. <br>- Created print formats using HTML, and CSS"
+    }
+  ],
+  "education": [
+    {
+      "college": "Princess Sumaya University for Technology",
+      "collegeLogo": "img/college/images.jfif",
+      "course": "Software Engineering",
+      "start": "2020",
+      "end": "2024",
+      "url": ""
+    }
+  ],
+  "certificate": [
+    {
+      "course": "Application Security for Developers and DevOps Professionals",
+      "provider": "IBM",
+      "schoolLogo": "img/college/coursera.jpg",
+      "url": "https://coursera.org/share/ab91ef0f5cc702fa695332f9a231651d"
+    }
+  ],
+  "project": [
+    {
+      "name": "Foodtek - Easy Restaurant Ordering",
+      "description": "Foodtek aims to create an integrated software solution tailored to enhance the operations of a single restaurant.<br/><br/>User-friendly interface for clients to browse the menu, place orders, and track delivery.<br/><br/>Key features of the app include user authentication, maps integration, and a real-time notifications system for order updates.<br/><br/> Aimed at medium-sized restaurants lack the necessary tools to effectively manage their services.<br/><br/> Prevents inefficiencies in order processing while enhancing delivery operations, and customer engagement",
+      "language": {
+        "image": "img/project/foodtek/foodtekLogo.png",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/foodtek/splash.png",
+        "img/project/foodtek/onboarding1.png",
+        "img/project/foodtek/onboarding2.png",
+        "img/project/foodtek/onboarding3.png",
+        "img/project/foodtek/location.png",
+        "img/project/foodtek/login.png",
+        "img/project/foodtek/signup.png",
+        "img/project/foodtek/resetPassword.png",
+        "img/project/foodtek/otp.png",
+        "img/project/foodtek/congrats.png",
+        "img/project/foodtek/home.png",
+        "img/project/foodtek/category.png",
+        "img/project/foodtek/notifications.png",
+        "img/project/foodtek/favorites.png",
+        "img/project/foodtek/remove.png",
+        "img/project/foodtek/details.png",
+        "img/project/foodtek/filter.png",
+        "img/project/foodtek/cart2.png",
+        "img/project/foodtek/history.png",
+        "img/project/foodtek/cartEmpty.png",
+        "img/project/foodtek/historyEmpty.png",
+        "img/project/foodtek/map.png",
+        "img/project/foodtek/checkout.png",
+        "img/project/foodtek/addCard.png",
+        "img/project/foodtek/orderSuccess.png",
+        "img/project/foodtek/onTheWay.png",
+        "img/project/foodtek/chat.png",
+        "img/project/foodtek/orderDetails.png",
+        "img/project/foodtek/profile.png",
+        "img/project/foodtek/editProfile.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "Proserve - Service allocation for providers",
+      "description": "Proserve is a mobile application designed to streamline service allocation for providers.<br/><br/>The app allows users to view available services, book appointments, and manage their profiles.<br/><br/>Key features of the app include a user-friendly interface, secure payment processing, and real-time notifications for appointment updates.<br/><br/>I developed the app using Flutter for a smooth cross-platform experience, with Firebase as the backend to manage real-time data efficiently.",
+      "language": {
+        "image": "img/project/proserve/proserveLogo.png",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/proserve/splash.png",
+        "img/project/proserve/login.png",
+        "img/project/proserve/phoneAuth.png",
+        "img/project/proserve/otp.png",
+        "img/project/proserve/resetPassword.png",
+        "img/project/proserve/newPassword.png",
+        "img/project/proserve/tasks.png",
+        "img/project/proserve/visits.png",
+        "img/project/proserve/taskDetails.png",
+        "img/project/proserve/checklist.png",
+        "img/project/proserve/details.png",
+        "img/project/proserve/notifications.png",
+        "img/project/proserve/profile.png",
+        "img/project/proserve/changeLanguage.png",
+        "img/project/proserve/techSupport.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "Carzpay - Repair Now Pay Later",
+      "description": "Carzpay is a mobile application designed to facilitate car repairs and maintenance services.<br/><br/>The app allows users to book appointments with service providers, view their profiles, and make payments for services rendered.<br/><br/>Key features of the app include a user-friendly interface, secure payment processing, and real-time notifications for appointment updates.<br/><br/>I developed the app using Flutter for a smooth cross-platform experience, with Firebase as the backend to manage real-time data efficiently.",
+      "language": {
+        "image": "img/project/carzpay/CarzpayLogo.png",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/carzpay/Splash2.png",
+        "img/project/carzpay/Onboarding.png",
+        "img/project/carzpay/Login.png",
+        "img/project/carzpay/OTP.png",
+        "img/project/carzpay/Verified.png",
+        "img/project/carzpay/Home1.png",
+        "img/project/carzpay/Home2.png",
+        "img/project/carzpay/Home3.png",
+        "img/project/carzpay/PackageDetails.png",
+        "img/project/carzpay/Partners.png",
+        "img/project/carzpay/PartnerDetails.png",
+        "img/project/carzpay/Apply1.png",
+        "img/project/carzpay/Apply2.png",
+        "img/project/carzpay/Apply3.png",
+        "img/project/carzpay/Apply4.png",
+        "img/project/carzpay/Apply5.png",
+        "img/project/carzpay/Apply6.png",
+        "img/project/carzpay/NoPayments.png",
+        "img/project/carzpay/Pay.png",
+        "img/project/carzpay/Payments1.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "Carzpay Repair Shops",
+      "description": "Carzpay Repair Shops is a mobile application aimed to be used by repair shops using the Carzpay framework.<br/><br/>Its main functionality is initiating repairs and enter the final amount.<br/><br/>Implemened a QR code scanning functionality to ensure covinience.<br/><br/>All changes are reflected on the Carzpay main application.",
+      "language": {
+        "image": "img/project/carzpay/CarzpayLogo.png",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/carzpay_rs/login.png",
+        "img/project/carzpay_rs/enterCode.png",
+        "img/project/carzpay_rs/details.png",
+        "img/project/carzpay_rs/enterAmount.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "SwiftSpot - Parking spot rental system",
+      "description": "SwiftSpot is a mobile application designed to optimize parking availability in high-traffic areas.<br/><br/>The app allows users to rent out their private parking spaces when they're not in use, providing a temporary solution for those struggling to find parking near busy areas like government buildings or malls.<br/><br/>Key features of the app include a real-time location display of available spots and turn-by-turn directions using Google’s Open Street Library.<br/><br/>I developed the app using Flutter for a smooth cross-platform experience, with Firebase as the backend to manage real-time data efficiently.",
+      "language": {
+        "image": "img/project/languages/flutter.svg",
+        "name": "Flutter"
+      },
+      "images": [
+        "img/project/parking_rent/0.svg",
+        "img/project/parking_rent/1.png",
+        "img/project/parking_rent/2.png",
+        "img/project/parking_rent/3.png",
+        "img/project/parking_rent/4.png",
+        "img/project/parking_rent/5.png",
+        "img/project/parking_rent/6.png",
+        "img/project/parking_rent/7.png",
+        "img/project/parking_rent/8.png",
+        "img/project/parking_rent/9.png",
+        "img/project/parking_rent/10.png",
+        "img/project/parking_rent/11.png",
+        "img/project/parking_rent/12.png",
+        "img/project/parking_rent/13.png",
+        "img/project/parking_rent/14.png",
+        "img/project/parking_rent/15.png",
+        "img/project/parking_rent/16.png",
+        "img/project/parking_rent/17.png",
+        "img/project/parking_rent/18.png",
+        "img/project/parking_rent/19.png",
+        "img/project/parking_rent/20.png",
+        "img/project/parking_rent/21.png",
+        "img/project/parking_rent/22.png",
+        "img/project/parking_rent/23.png",
+        "img/project/parking_rent/24.png",
+        "img/project/parking_rent/25.png",
+        "img/project/parking_rent/26.png"
+      ],
+      "stars": "",
+      "forks": "",
+      "url": [
+        {
+          "name": "SwiftSpotBrochure.pdf",
+          "url": "img/project/parking_rent/SwiftSpotBrochure.pdf"
+        },
+        {
+          "name": "SwiftSpot.pdf",
+          "url": "img/project/parking_rent/SwiftSpot.pdf"
+        }
+      ]
+    }
+  ]
+}
