@@ -13,7 +13,7 @@ export interface Resume {
   skill: string[];
   language: Language[];
   experience: Experience[];
-  volunteer: Experience[];
+  //volunteer: Experience[];
   education: Education[];
   certificate: Certificate[];
   project: Project[];

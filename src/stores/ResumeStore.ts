@@ -12,7 +12,7 @@ const languages = [
 export const useResumeStore = defineStore('resume', {
   state: () => {
     return {
-      resume: languages[0].data as Resume,
+      resume: languages[0].data,
     };
   },
   actions: {
